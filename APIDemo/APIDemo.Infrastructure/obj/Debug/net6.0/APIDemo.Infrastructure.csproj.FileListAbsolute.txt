@@ -1,0 +1,17 @@
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Infrastructure.deps.json
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Infrastructure.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Core.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\bin\Debug\net6.0\APIDemo.Core.pdb
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo..8AF394DD.Up2Date
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\refint\APIDemo.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\APIDemo.Infrastructure.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Infrastructure\obj\Debug\net6.0\ref\APIDemo.Infrastructure.dll

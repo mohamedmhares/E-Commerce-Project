@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\specifications\\productwithtypesandbrandsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\specifications\\productwithtypesandbrandsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\specifications\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\specifications\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0955DEF-49E4-4648-84A8-87FAB9345864}|APIDemo.Infrastructure\\APIDemo.Infrastructure.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.infrastructure\\data\\genericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0955DEF-49E4-4648-84A8-87FAB9345864}|APIDemo.Infrastructure\\APIDemo.Infrastructure.csproj|solutionrelative:apidemo.infrastructure\\data\\genericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\interfaces\\igenericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\interfaces\\igenericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0955DEF-49E4-4648-84A8-87FAB9345864}|APIDemo.Infrastructure\\APIDemo.Infrastructure.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0955DEF-49E4-4648-84A8-87FAB9345864}|APIDemo.Infrastructure\\APIDemo.Infrastructure.csproj|solutionrelative:apidemo.infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E558E9-BBA8-4F64-A833-943B8CDF2D9D}|APIDemo.Core\\APIDemo.Core.csproj|solutionrelative:apidemo.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\middleware\\excepetionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\middleware\\excepetionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\errors\\apiexcepetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\errors\\apiexcepetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\apidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\apidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\apidemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\apidemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|c:\\users\\admin\\onedrive\\desktop\\demo\\apidemo\\apidemo\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB0B9E-A558-4008-870C-D61A62F75802}|APIDemo\\APIDemo.csproj|solutionrelative:apidemo\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 66,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3b09462-361e-4675-acc6-e0732f84d521}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "APIDemo.Core\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:21:12.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductWithTypesAndBrandsSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductWithTypesAndBrandsSpecification.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Specifications\\ProductWithTypesAndBrandsSpecification.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductWithTypesAndBrandsSpecification.cs",
+              "RelativeToolTip": "APIDemo.Core\\Specifications\\ProductWithTypesAndBrandsSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:27:18.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "APIDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:40:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Program.cs",
+              "RelativeToolTip": "APIDemo\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:48:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWithCountSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductWithCountSpecification.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Specifications\\ProductWithCountSpecification.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ProductWithCountSpecification.cs",
+              "RelativeToolTip": "APIDemo.Core\\Specifications\\ProductWithCountSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:49:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "APIDemo\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:59:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "APIDemo\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:56:46.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Helpers\\Pagination.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "APIDemo\\Helpers\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:40:53.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRebository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Interfaces\\IGenericRebository.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Interfaces\\IGenericRebository.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Interfaces\\IGenericRebository.cs",
+              "RelativeToolTip": "APIDemo.Core\\Interfaces\\IGenericRebository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:46:07.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRebository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Infrastructure\\Data\\GenericRebository.cs",
+              "RelativeDocumentMoniker": "APIDemo.Infrastructure\\Data\\GenericRebository.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Infrastructure\\Data\\GenericRebository.cs",
+              "RelativeToolTip": "APIDemo.Infrastructure\\Data\\GenericRebository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:47:32.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "APIDemo.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "APIDemo.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:23:45.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "APIDemo.Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgvygAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:29:32.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "APIDemo.Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo.Core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "APIDemo.Core\\Specifications\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:27:28.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "APIDemo\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:26:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Errors\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "APIDemo\\Errors\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:08:31.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiExcepetion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Errors\\ApiExcepetion.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Errors\\ApiExcepetion.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Errors\\ApiExcepetion.cs",
+              "RelativeToolTip": "APIDemo\\Errors\\ApiExcepetion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:32:49.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcepetionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Middleware\\ExcepetionMiddleware.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Middleware\\ExcepetionMiddleware.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Middleware\\ExcepetionMiddleware.cs",
+              "RelativeToolTip": "APIDemo\\Middleware\\ExcepetionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:36:38.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "APIDemo",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\APIDemo.csproj",
+              "RelativeDocumentMoniker": "APIDemo\\APIDemo.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\APIDemo.csproj",
+              "RelativeToolTip": "APIDemo\\APIDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T04:40:10.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "APIDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\appsettings.json",
+              "RelativeToolTip": "APIDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T04:39:07.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\ProductUrlResolver.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Helpers\\ProductUrlResolver.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\ProductUrlResolver.cs",
+              "RelativeToolTip": "APIDemo\\Helpers\\ProductUrlResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:33:15.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Dtos\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Dtos\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Dtos\\ProductDTO.cs",
+              "RelativeToolTip": "APIDemo\\Dtos\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:59:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "APIDemo\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "APIDemo\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:41:47.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\APIDemo.csproj",
+              "RelativeDocumentMoniker": "APIDemo\\APIDemo.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\APIDemo.csproj",
+              "RelativeToolTip": "APIDemo\\APIDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T03:41:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T04:40:13.072Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 334,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

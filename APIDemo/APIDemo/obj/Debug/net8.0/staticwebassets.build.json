@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "pNvn/JsHdQSDo5kd8ssX+vW388LyeSpeDl/hDXjjPNI=",
+  "Source": "APIDemo",
+  "BasePath": "_content/APIDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIDemo\\wwwroot",
+      "Source": "APIDemo",
+      "ContentRoot": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\wwwroot\\Images\\boot.jpg",
+      "SourceId": "APIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "RelativePath": "Images/boot.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\boot.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\wwwroot\\Images\\mm.jpg",
+      "SourceId": "APIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\OneDrive\\Desktop\\Demo\\APIDemo\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "RelativePath": "Images/mm.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mm.jpg"
+    }
+  ]
+}

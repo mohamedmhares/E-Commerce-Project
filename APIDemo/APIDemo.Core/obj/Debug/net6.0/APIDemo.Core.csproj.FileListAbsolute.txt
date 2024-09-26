@@ -1,0 +1,11 @@
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\bin\Debug\net6.0\APIDemo.Core.deps.json
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\bin\Debug\net6.0\APIDemo.Core.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\bin\Debug\net6.0\APIDemo.Core.pdb
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\refint\APIDemo.Core.dll
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\APIDemo.Core.pdb
+C:\Users\admin\OneDrive\Desktop\Demo\APIDemo\APIDemo.Core\obj\Debug\net6.0\ref\APIDemo.Core.dll
